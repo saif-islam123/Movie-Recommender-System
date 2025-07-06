@@ -50,7 +50,16 @@ The purpose of a recommendation system basically is to search for content that w
 
 - Combination of both and used now a days .
 
-- Uses : word2vec , embedding .           
+- Uses : word2vec , embedding .
+## ⚠️ Missing File: similary.pkl
+
+This file is too large for GitHub (176 MB) and has been removed from the repository.
+
+[Download similary.pkl from Google Drive](https://drive.google.com/file/d/1SwbYcNCmDYc9o5Yc9VCzfGlZH8x53RKA/view?usp=drive_link)   
+After downloading, place it inside the following folder:
+project_root/
+├── artificats/
+└── similary.pkl
 
 # About this project:
 
